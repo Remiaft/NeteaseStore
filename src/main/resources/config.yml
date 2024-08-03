@@ -1,0 +1,17 @@
+
+prefix: "§bStore §7» §f"
+query_url: "https://x19mclobt.nie.netease.com:9090/get-mc-item-order-list"
+done_url: "https://x19mclobt.nie.netease.com:9090/ship-mc-item-order"
+gameid: "***"
+sign: "***"
+
+#  1.	查询指定玩家未发货订单的信息
+#  http://gasproxy.mc.netease.com:60004/get-mc-item-order-list （PC正式环境地址1）
+#  https://x19mclobt.nie.netease.com:9090/get-mc-item-order-list（PC正式环境地址2）
+#  http://gasproxy.mc.netease.com:60003/get-mc-item-order-list (PC测试环境地址)
+#
+#  2.	通知网易服务器mc游戏中发货成功
+#  http://gasproxy.mc.netease.com:60004/ship-mc-item-order （PC正式环境地址1）
+#  https://x19mclobt.nie.netease.com:9090/ship-mc-item-order （PC正式环境地址2）
+#  http://gasproxy.mc.netease.com:60003/ship-mc-item-order  (PC测试环境地址)
+
